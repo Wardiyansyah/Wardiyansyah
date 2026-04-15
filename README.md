@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Wardiyansyah — Software Engineering Student<br><br>- 🌱 Focus: Web & Mobile Development  <br>- 💻 Languages: Java, JavaScript, Dart  <br>- 📱 Learning Flutter  <br>- 🔍 Interested in AI-assisted learning systems  <br>- ⚡ Enjoy solving errors more than creating features (weird but true 😆)  
+## Wardiyansyah — Software Engineering Student<br><br>- 🌱 Focus: Web & Mobile Development  <br>- 💻 Languages: Java, JavaScript, Dart, Flutter  <br>- 🔍 Interested in AI-assisted learning systems  <br>- ⚡ Enjoy solving errors more than creating features (weird but true 😆)  
 
 
 ## 🌐 Socials:
